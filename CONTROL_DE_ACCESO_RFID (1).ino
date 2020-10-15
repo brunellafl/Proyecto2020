@@ -88,6 +88,7 @@ void loop()
       Serial.println();
           
 }          
+  
     //Retardo para estabilización del sistema
     delay(300);
         
