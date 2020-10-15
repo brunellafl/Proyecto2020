@@ -23,6 +23,7 @@ RST             D9           D8
 // Incluimos la libreria para el control del sistema RFID
 #include <MFRC522.h>
 
+
 //Definimos para el RFID,DIO usado para el SDA (D9) y RST (D8). 
 #define SDA_DIO 9
 #define RESET_DIO 8
